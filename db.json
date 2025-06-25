@@ -1,0 +1,1430 @@
+{
+  "groups": [
+    {
+      "id": "d930",
+      "agency": "CIB",
+      "name": "2 Weeks",
+      "arrivalDate": "2025-07-06",
+      "departureDate": "2025-07-20",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "arrivalSchedule": [
+        {
+          "date": "2025-07-06",
+          "time": "10:00",
+          "pax": 5
+        },
+        {
+          "date": "2025-07-06",
+          "time": "19:00",
+          "pax": 2
+        }
+      ],
+      "departureSchedule": [
+        {
+          "date": "2025-07-20",
+          "time": "",
+          "pax": 7
+        }
+      ],
+      "centre": "DCU"
+    },
+    {
+      "id": "cf95",
+      "agency": "IKAROS",
+      "name": "UNI",
+      "arrivalDate": "2025-05-18",
+      "departureDate": "2025-06-07",
+      "pax": 18,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "cf68",
+      "agency": "IKAROS",
+      "name": "CHAR",
+      "arrivalDate": "2025-06-30",
+      "departureDate": "2025-07-14",
+      "pax": 11,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "8c2b",
+      "agency": "Inma Calvo",
+      "name": "Inma Calvo",
+      "arrivalDate": "2025-07-05",
+      "departureDate": "2025-07-25",
+      "pax": 9,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "f8f7",
+      "agency": "KBL",
+      "name": "Res 1",
+      "arrivalDate": "2025-06-27",
+      "departureDate": "2025-07-11",
+      "pax": 13,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "f5c7",
+      "agency": "KBL",
+      "name": "Res 2",
+      "arrivalDate": "2025-06-27",
+      "departureDate": "2025-07-18",
+      "pax": 8,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "d201",
+      "agency": "KBL",
+      "name": "Sara - GL",
+      "arrivalDate": "2025-06-27",
+      "departureDate": "2025-07-25",
+      "pax": 1,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "1bf2",
+      "agency": "KBL",
+      "name": "Res 3",
+      "arrivalDate": "2025-07-11",
+      "departureDate": "2025-07-25",
+      "pax": 10,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "cdda",
+      "agency": "Language Team",
+      "name": "Inps 1",
+      "arrivalDate": "2025-06-16",
+      "departureDate": "2025-06-30",
+      "pax": 38,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "arrivalSchedule": [
+        {
+          "date": "2025-06-16",
+          "time": "18:30",
+          "pax": 20
+        },
+        {
+          "date": "2025-06-16",
+          "time": "22:25",
+          "pax": 18
+        }
+      ],
+      "departureSchedule": [
+        {
+          "date": "2025-06-30",
+          "time": "06:35",
+          "pax": 20
+        },
+        {
+          "date": "2025-06-30",
+          "time": "05:55",
+          "pax": 18
+        }
+      ],
+      "centre": "DCU"
+    },
+    {
+      "id": "f781",
+      "agency": "Language Team",
+      "name": "REP",
+      "arrivalDate": "2025-06-16",
+      "departureDate": "2025-08-13",
+      "pax": 1,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "9207",
+      "agency": "Language Team",
+      "name": "Giarnetti",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-16",
+      "pax": 11,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "3fe6",
+      "agency": "CIB",
+      "name": "3 weeks ",
+      "arrivalDate": "2025-07-06",
+      "departureDate": "2025-07-27",
+      "pax": 9,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "f77a",
+      "agency": "Language Team",
+      "name": "Inps 2",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-16",
+      "pax": 16,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "d2f9",
+      "agency": "Language Team",
+      "name": "Inps 3",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "81e5",
+      "agency": "Language Team",
+      "name": "Caponetto",
+      "arrivalDate": "2025-07-30",
+      "departureDate": "2025-08-08",
+      "pax": 5,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "ae43",
+      "agency": "Language Team",
+      "name": "Simonetta",
+      "arrivalDate": "2025-07-30",
+      "departureDate": "2025-08-08",
+      "pax": 10,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "fa31",
+      "agency": "Helkin",
+      "name": "D'Orsi/Graziani",
+      "arrivalDate": "2025-07-01",
+      "departureDate": "2025-07-11",
+      "pax": 38,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "arrivalSchedule": [
+        {
+          "date": "2025-07-01",
+          "time": "11:10",
+          "pax": 38
+        }
+      ],
+      "departureSchedule": [
+        {
+          "date": "2025-07-11",
+          "time": "18:30",
+          "pax": 38
+        }
+      ],
+      "centre": "DCU"
+    },
+    {
+      "id": "d364",
+      "agency": "Language Team",
+      "name": "Inps 4",
+      "arrivalDate": "2025-07-30",
+      "departureDate": "2025-08-13",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "5bad",
+      "agency": "MKK.06",
+      "name": "Group 1",
+      "arrivalDate": "2025-07-13",
+      "departureDate": "2025-07-27",
+      "pax": 30,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "f0a3",
+      "agency": "Mr Seo",
+      "name": "Mr Seo",
+      "arrivalDate": "2025-07-13",
+      "departureDate": "2025-07-25",
+      "pax": 27,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "5b24",
+      "agency": "Helkin",
+      "name": "Forzonoi",
+      "arrivalDate": "2025-07-01",
+      "departureDate": "2025-07-11",
+      "pax": 16,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "1e6d",
+      "agency": "STE",
+      "name": "Doctor",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-27",
+      "pax": 1,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "cd68",
+      "agency": "STE",
+      "name": "Rep\t",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-31",
+      "pax": 1,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "5e4b",
+      "agency": "IH",
+      "name": "Mil 1",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-07-13",
+      "pax": 16,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "arrivalSchedule": [
+        {
+          "date": "2025-06-29",
+          "time": "12:50",
+          "pax": 16
+        }
+      ],
+      "departureSchedule": [
+        {
+          "date": "2025-07-13",
+          "time": "18:00",
+          "pax": 16
+        }
+      ],
+      "centre": "DCU"
+    },
+    {
+      "id": "9afb",
+      "agency": "STE",
+      "name": "De Gennaro",
+      "arrivalDate": "2025-07-01",
+      "departureDate": "2025-07-15",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "f38e",
+      "agency": "STE",
+      "name": "Damiani",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-15",
+      "pax": 15,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "8688",
+      "agency": "STE",
+      "name": "Ferrara",
+      "arrivalDate": "2025-07-12",
+      "departureDate": "2025-07-25",
+      "pax": 9,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "a330",
+      "agency": "STE",
+      "name": "Carapellese/Gas",
+      "arrivalDate": "2025-07-14",
+      "departureDate": "2025-07-28",
+      "pax": 39,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "02ee",
+      "agency": "IH",
+      "name": "Mil 2",
+      "arrivalDate": "2025-07-13",
+      "departureDate": "2025-07-27",
+      "pax": 11,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "6c7c",
+      "agency": "STE",
+      "name": "Cocivera",
+      "arrivalDate": "2025-07-26",
+      "departureDate": "2025-08-09",
+      "pax": 6,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "5398",
+      "agency": "STE",
+      "name": "Fino",
+      "arrivalDate": "2025-07-26",
+      "departureDate": "2025-08-09",
+      "pax": 10,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "3068",
+      "agency": "Study UA",
+      "name": "Group 2",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-12",
+      "pax": 15,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "arrivalSchedule": [
+        {
+          "date": "2025-06-28",
+          "time": "12:15",
+          "pax": 15
+        }
+      ],
+      "departureSchedule": [
+        {
+          "date": "2025-07-12",
+          "time": "05:45",
+          "pax": 15
+        }
+      ],
+      "centre": "DCU"
+    },
+    {
+      "id": "e62c",
+      "agency": "Study UA",
+      "name": "Group 3",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-19",
+      "pax": 14,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "arrivalSchedule": [
+        {
+          "date": "2025-06-28",
+          "time": "12:15",
+          "pax": 14
+        }
+      ],
+      "departureSchedule": [
+        {
+          "date": "2025-07-19",
+          "time": "05:45",
+          "pax": 14
+        }
+      ],
+      "centre": "DCU"
+    },
+    {
+      "id": "50f5",
+      "agency": "Study UA",
+      "name": "Group 4",
+      "arrivalDate": "2025-07-26",
+      "departureDate": "2025-08-09",
+      "pax": 8,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "1d9f",
+      "agency": "Sunny English",
+      "name": "Sunny English",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-12",
+      "pax": 9,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "arrivalSchedule": [
+        {
+          "date": "2025-06-28",
+          "time": "13:35",
+          "pax": 9
+        }
+      ],
+      "departureSchedule": [
+        {
+          "date": "2025-07-12",
+          "time": "18:55",
+          "pax": 9
+        }
+      ],
+      "centre": "DCU"
+    },
+    {
+      "id": "05e4",
+      "agency": "Today International",
+      "name": "Albertini",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-16",
+      "pax": 5,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "44c6",
+      "agency": "Today International",
+      "name": "Duci-Russo-Gallini",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-16",
+      "pax": 28,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "cb70",
+      "agency": "Today International",
+      "name": "Zullo",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-16",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "4e05",
+      "agency": "Today International",
+      "name": "Bruschi",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 13,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "7794",
+      "agency": "Today International",
+      "name": "De Cicco",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 21,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "2ef3",
+      "agency": "Today International",
+      "name": "Morgano",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 10,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "f2f9",
+      "agency": "Today International",
+      "name": "Penna",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 19,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "33b5",
+      "agency": "Today International",
+      "name": "Serra",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 31,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "78e2",
+      "agency": "Today International",
+      "name": "Malduca",
+      "arrivalDate": "2025-07-20",
+      "departureDate": "2025-08-03",
+      "pax": 17,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "430b",
+      "agency": "Today International",
+      "name": "Baroncelli",
+      "arrivalDate": "2025-07-27",
+      "departureDate": "2025-08-10",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "8683",
+      "agency": "Toni Fanelli ",
+      "name": "Toni Fanelli",
+      "arrivalDate": "2025-07-19",
+      "departureDate": "2025-07-23",
+      "pax": 26,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "6b77",
+      "agency": "Trinity Viaggi",
+      "name": "CHIGNOLI",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-15",
+      "pax": 14,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "e39e",
+      "agency": "Trinity Viaggi",
+      "name": "SPAGNA",
+      "arrivalDate": "2025-07-02",
+      "departureDate": "2025-07-15",
+      "pax": 29,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "2e3f",
+      "agency": "Trinity Viaggi",
+      "name": "CONTE (ROMEO)",
+      "arrivalDate": "2025-07-03",
+      "departureDate": "2025-07-16",
+      "pax": 27,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "3033",
+      "agency": "Trinity Viaggi",
+      "name": "CONTI",
+      "arrivalDate": "2025-07-03",
+      "departureDate": "2025-07-16",
+      "pax": 25,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "f78a",
+      "agency": "Trinity Viaggi",
+      "name": "FUCILE",
+      "arrivalDate": "2025-07-03",
+      "departureDate": "2025-07-17",
+      "pax": 9,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "a6d9",
+      "agency": "Trinity Viaggi",
+      "name": "GAROFALO",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 11,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "715e",
+      "agency": "Trinity Viaggi",
+      "name": "INPS GROUP 1",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 1,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "5750",
+      "agency": "Trinity Viaggi",
+      "name": "MAGHERINI SIMONA",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 26,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "e357",
+      "agency": "Trinity Viaggi",
+      "name": "NESCA 1",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "c484",
+      "agency": "Trinity Viaggi",
+      "name": "SCOTTO",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 7,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "5118",
+      "agency": "Trinity Viaggi",
+      "name": "STEFANINI",
+      "arrivalDate": "2025-07-16",
+      "departureDate": "2025-07-30",
+      "pax": 21,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "4a94",
+      "agency": "Trinity Viaggi",
+      "name": "INPS GROUP 2",
+      "arrivalDate": "2025-07-17",
+      "departureDate": "2025-07-30",
+      "pax": 5,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "0f24",
+      "agency": "Trinity Viaggi",
+      "name": "INPS GROUP 3",
+      "arrivalDate": "2025-07-17",
+      "departureDate": "2025-07-31",
+      "pax": 18,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "5744",
+      "agency": "Trinity Viaggi",
+      "name": "MAZZEI",
+      "arrivalDate": "2025-07-17",
+      "departureDate": "2025-07-31",
+      "pax": 10,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "c3ee",
+      "agency": "Trinity Viaggi",
+      "name": "NESCA 2",
+      "arrivalDate": "2025-07-17",
+      "departureDate": "2025-07-31",
+      "pax": 2,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "3077",
+      "agency": "Trinity Viaggi",
+      "name": "STROZZI",
+      "arrivalDate": "2025-07-17",
+      "departureDate": "2025-07-30",
+      "pax": 19,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    },
+    {
+      "id": "2941",
+      "agency": "Trinity Viaggi",
+      "name": "TORELLI",
+      "arrivalDate": "2025-07-17",
+      "departureDate": "2025-07-31",
+      "pax": 5,
+      "arrivalTime": "",
+      "departureTime": "",
+      "dietary": {
+        "vegetarian": 0,
+        "glutenFree": 0,
+        "nutAllergy": 0,
+        "other": 0
+      },
+      "centre": "DCU"
+    }
+  ],
+  "staff": [
+    {
+      "id": "64ec",
+      "name": "Nicholas Dang",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-30",
+      "isLiveIn": false,
+      "centre": "DCU"
+    },
+    {
+      "id": "a64c",
+      "name": "Alessandra Di Girolamo",
+      "arrivalDate": "2025-06-25",
+      "departureDate": "2025-08-03",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "39a5",
+      "name": "Paula Sanz",
+      "arrivalDate": "2025-06-26",
+      "departureDate": "2025-07-30",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "df18",
+      "name": "Alicia Ní Annracháin",
+      "arrivalDate": "2025-06-26",
+      "departureDate": "2025-08-03",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "41b6",
+      "name": "Illia Pryimak",
+      "arrivalDate": "2025-06-26",
+      "departureDate": "2025-08-03",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "9f7f",
+      "name": "Favour Isijole",
+      "arrivalDate": "2025-06-26",
+      "departureDate": "2025-08-03",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "8cca",
+      "name": "Eva  Doorly Coleman",
+      "arrivalDate": "2025-06-26",
+      "departureDate": "2025-08-03",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "dc6d",
+      "name": "Oleksii Kupavtsev",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-29",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "2768",
+      "name": "Stephanie Roessink",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-07-25",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "1996",
+      "name": "Niurka  Jiménez Merizalde",
+      "arrivalDate": "2025-07-06",
+      "departureDate": "2025-08-07",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "c92a",
+      "name": "Erica  Pattaro",
+      "arrivalDate": "2025-06-25",
+      "departureDate": "2025-08-13",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "89f6",
+      "name": "Carla Cheyrou-Lagreze",
+      "arrivalDate": "2025-07-01",
+      "departureDate": "2025-07-29",
+      "isLiveIn": false,
+      "centre": "DCU"
+    },
+    {
+      "id": "608e",
+      "name": "Donal  Rooney",
+      "arrivalDate": "2025-06-25",
+      "departureDate": "2025-08-13",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "7dd4",
+      "name": "Jonathan Harkin",
+      "arrivalDate": "2025-06-12",
+      "departureDate": "2025-08-03",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "dcd4",
+      "name": "Zeile McDonnell",
+      "arrivalDate": "2025-06-12",
+      "departureDate": "2025-06-13",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "94fe",
+      "name": "Katie Groves",
+      "arrivalDate": "2025-07-01",
+      "departureDate": "2025-07-29",
+      "isLiveIn": false,
+      "centre": "DCU"
+    },
+    {
+      "id": "d015",
+      "name": "Taisiia Goldanova",
+      "arrivalDate": "2025-06-26",
+      "departureDate": "2025-08-13",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "a009",
+      "name": "Ana Luisa Zaia Oliveira",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-08-02",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "5063",
+      "name": "Angel Marques",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-07-26",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "de9d",
+      "name": "Ciaran  Parker",
+      "arrivalDate": "2025-06-30",
+      "departureDate": "2025-07-25",
+      "isLiveIn": false,
+      "centre": "DCU"
+    },
+    {
+      "id": "0fd9",
+      "name": "Anna Memoli",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-07-26",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "adfc",
+      "name": "Caroline McAlesher",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-08-12",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "6d77",
+      "name": "Claire Cullen",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-07-26",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "73b2",
+      "name": "Adam  Konopka",
+      "arrivalDate": "2025-06-16",
+      "departureDate": "2025-07-31",
+      "isLiveIn": false,
+      "centre": "DCU"
+    },
+    {
+      "id": "9108",
+      "name": "Eva  Kalampouka",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-07-26",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "5575",
+      "name": "Gabriel Araujo",
+      "arrivalDate": "2025-07-01",
+      "departureDate": "2025-08-02",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "901d",
+      "name": "Vasyl Kupvtse",
+      "arrivalDate": "2025-06-12",
+      "departureDate": "2025-08-13",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "20fd",
+      "name": "Ana  Belen Trejo",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-07-26",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "198c",
+      "name": "Holly  Czolacz",
+      "arrivalDate": "2025-06-29",
+      "departureDate": "2025-08-02",
+      "isLiveIn": true,
+      "centre": "DCU"
+    },
+    {
+      "id": "de43",
+      "name": "Kristina Petruskaite",
+      "arrivalDate": "2025-06-28",
+      "departureDate": "2025-07-26",
+      "isLiveIn": true,
+      "centre": "DCU"
+    }
+  ]
+}
